@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>mallcloud</artifactId>
+        <groupId>com.mall.cloud</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>mallcloud-api</artifactId>
+    <packaging>pom</packaging>
+
+    <description>mallcloud 内网接口</description>
+    <modules>
+        <module>mallcloud-api-auth</module>
+        <module>mallcloud-api-biz</module>
+        <module>mallcloud-api-rbac</module>
+        <module>mallcloud-api-leaf</module>
+        <module>mallcloud-api-product</module>
+        <module>mallcloud-api-multishop</module>
+        <module>mallcloud-api-user</module>
+        <module>mallcloud-api-order</module>
+        <module>mallcloud-api-search</module>
+        <module>mallcloud-api-platform</module>
+    </modules>
+
+</project>
