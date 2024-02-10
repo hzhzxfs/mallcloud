@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mallcloud-api/mallcloud-api-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-api/mallcloud-api-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-api/mallcloud-api-leaf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-api/mallcloud-api-multishop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-api/mallcloud-api-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-api/mallcloud-api-platform/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-api/mallcloud-api-product/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-api/mallcloud-api-rbac/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-api/mallcloud-api-search/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-api/mallcloud-api-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-common/mallcloud-common-cache/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-common/mallcloud-common-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-common/mallcloud-common-database/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-common/mallcloud-common-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-common/mallcloud-common-rocketmq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-common/mallcloud-common-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-leaf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-multishop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-payment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-platform/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-product/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-rbac/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-search/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mallcloud-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

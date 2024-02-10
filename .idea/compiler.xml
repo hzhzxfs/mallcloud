@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mallcloud-api-user" />
+        <module name="mallcloud-api-order" />
+        <module name="mallcloud-gateway" />
+        <module name="mallcloud-rbac" />
+        <module name="mallcloud-common-security" />
+        <module name="mallcloud-multishop" />
+        <module name="mallcloud-user" />
+        <module name="mallcloud-api-product" />
+        <module name="mallcloud-common-core" />
+        <module name="mallcloud-api-leaf" />
+        <module name="mallcloud-search" />
+        <module name="mallcloud-order" />
+        <module name="mallcloud-common-order" />
+        <module name="mallcloud-api-rbac" />
+        <module name="mallcloud-common-cache" />
+        <module name="mallcloud-api-auth" />
+        <module name="mallcloud-common-database" />
+        <module name="mallcloud-payment" />
+        <module name="mallcloud-api-platform" />
+        <module name="mallcloud-common-rocketmq" />
+        <module name="mallcloud-api-multishop" />
+        <module name="mallcloud-api-biz" />
+        <module name="mallcloud-product" />
+        <module name="mallcloud-leaf" />
+        <module name="mallcloud-api-search" />
+        <module name="mallcloud-auth" />
+        <module name="mallcloud-platform" />
+        <module name="mallcloud-biz" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mall4cloud-api-leaf" target="1.5" />
+      <module name="mall4cloud-api-multishop" target="17" />
+      <module name="mall4cloud-common-cache" target="1.5" />
+      <module name="mall4cloud-common-core" target="17" />
+      <module name="mall4cloud-common-database" target="17" />
+      <module name="mall4cloud-common-order" target="17" />
+      <module name="mall4cloud-common-rocketmq" target="17" />
+      <module name="mall4cloud-common-security" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
