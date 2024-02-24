@@ -5,7 +5,7 @@
 
 ## 系统架构
 
-![架构图](https://pic.imgdb.cn/item/65c6eaa99f345e8d035a1dd7.jpg)
+![65c6eaa99f345e8d035a1dd7.jpg](https://s2.loli.net/2024/02/24/eZi43t1ojxcP2sn.jpg)
 
 
 ## 项目架构
